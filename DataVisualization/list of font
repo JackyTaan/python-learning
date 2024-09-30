@@ -1,0 +1,7 @@
+List of Text Fonts
+In the previous lecture we used "times" as font family for the title:
+
+f.title.text_font="times"
+
+For a complete list of fonts that you can pass to text elements of a Bokeh graph please refer to the following table:
+

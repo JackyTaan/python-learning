@@ -1,0 +1,21 @@
+List of Colors
+In the previous lecture, you used a color name to specify the color of an element such as:
+
+f.background_fill_color="olive"
+
+Besides color names, you can also use RGB hex values such as:
+
+f.background_fill_color="#CD5C5C"
+
+You can also specify a tuple signifying RGB values where the three values specify the intensity of red, green and blue:
+
+f.background_fill_color=(205,92,92)
+
+And you can also pass the alpha channel into that tuple to control transparency:
+
+f.background_fill_color=(205,92,92,0.3)
+
+And here is a complete list of colors that you can use:
+
+
+
